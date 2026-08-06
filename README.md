@@ -2,14 +2,14 @@
 
 Data scientist leveraging **analytics, governance, and technology** to drive evidence-based decisions and sustainable development impact.
 
-I build machine learning models that solve real-world problems — from detecting misinformation to predicting disease risk and catching fraud before it happens.
+I build machine learning models that solve real-world problems from detecting misinformation to predicting disease risk and catching fraud before it happens.
 
 ---
 
 ### 🔭 What I work on
 - Machine learning for social impact (health, fraud, misinformation)
 - Data-driven decision systems and governance analytics
-- End-to-end ML pipelines — from raw data to deployed models
+- End-to-end ML pipelines from raw data to deployed models
 
 ### 🛠️ Tools & Tech
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Jupyter Notebook` · `Matplotlib` · `SQL`
