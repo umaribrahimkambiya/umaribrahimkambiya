@@ -21,6 +21,19 @@ I build machine learning models that solve real-world problems — from detectin
 - ❤️ [Heart Disease Prediction](https://github.com/umaribrahimkambiya/Heart-Disease-Prediction-) — predicts heart disease risk from patient health indicators
 - 🩺 [Healthcare AI Assistant](https://github.com/umaribrahimkambiya/Healthcare-AI-Assistant-for-Early-Disease-Screening-main) — AI-assisted early disease screening tool
 
+### 📜 Certifications
+- 🎓 Microsoft Certified: Azure Data Scientist Associate (DP-100) — Digital Skills Nigeria
+- 🎓 Deloitte Australia — Data Analytics & Forensic Technology Virtual Experience Program
+- 🎓 Lloyds Banking Group — Data Science Job Simulation (Forage) — built a churn prediction model, ROC-AUC 0.82
+- 🎓 Commonwealth Bank — Introduction to Data Science Job Simulation (Forage)
+- 🎓 Tata — Data Visualisation: Empowering Business with Effective Insights (Forage)
+- 🎓 Quantium — Data Analytics Job Simulation (Forage)
+- 🎓 IBM SkillsBuild — Getting Started with Data
+- 🎓 Codveda Technologies — Data Analysis Internship Certificate
+- 🎓 Edunet Foundation — Green Skills and Artificial Intelligence
+
+<sub>See full list of 25+ certifications on my [LinkedIn](https://www.linkedin.com/in/umaribrahimmuhd/)</sub>
+
 ### 🌱 Currently
 Sharpening my skills in applied ML and looking for opportunities to contribute to open-source data science projects.
 
