@@ -20,6 +20,7 @@ I build machine learning models that solve real-world problems from detecting mi
 - 💳 [Credit Card Fraud Detection](https://github.com/umaribrahimkambiya/Credit-Card-Fraud-Detection-ML) — identifies fraudulent transactions in financial data
 - ❤️ [Heart Disease Prediction](https://github.com/umaribrahimkambiya/Heart-Disease-Prediction-) — predicts heart disease risk from patient health indicators
 - 🩺 [Healthcare AI Assistant](https://github.com/umaribrahimkambiya/Healthcare-AI-Assistant-for-Early-Disease-Screening-main) — AI-assisted early disease screening tool
+- 📈 [SME Demand Forecasting]((https://github.com/umaribrahimkambiya/SME-Demand-Forecasting)) — end-to-end ML system for 30-day product demand forecasting using Random Forest, XGBoost, time-series features, and Streamlit
 
 ### 📜 Certifications
 - 🎓 Microsoft Certified: Azure Data Scientist Associate (DP-100) — Digital Skills Nigeria
