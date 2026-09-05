@@ -23,6 +23,7 @@ I build machine learning models that solve real-world problems from detecting mi
 - 📈 [SME Demand Forecasting](https://github.com/umaribrahimkambiya/SME-Demand-Forecasting) — end-to-end ML system for 30-day product demand forecasting using Random Forest, XGBoost, time-series features, and Streamlit
 
 ### 📜 Certifications
+- 🎓 NASA Open Science 101 (NASA) — Certificate of Achievement in open science and research transparency..
 - 🎓 Microsoft Certified: Azure Data Scientist Associate (DP-100) — Digital Skills Nigeria
 - 🎓 Deloitte Australia — Data Analytics & Forensic Technology Virtual Experience Program
 - 🎓 Lloyds Banking Group — Data Science Job Simulation (Forage) — built a churn prediction model, ROC-AUC 0.82
