@@ -15,7 +15,7 @@ I build machine learning models that solve real-world problems from detecting mi
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Jupyter Notebook` · `Matplotlib` · `SQL`
 
 ### 📌 Featured Projects
-- 🔍 [Fake News Detection System](https://github.com/umaribrahimkambiya/Fake-News-Detection-System-Machine-Learning) — ML model to classify news articles as real or fake
+- 🔍 [Fake News Detection System](https://github.com/umaribrahimkambiya/Fake-News-Detection-Machine-Learning) — ML model to classify news articles as real or fake
 - 🎓 [Student Performance Prediction](https://github.com/umaribrahimkambiya/Student-Performance-Prediction-ML) — predicts academic outcomes from student data
 - 💳 [Credit Card Fraud Detection](https://github.com/umaribrahimkambiya/Credit-Card-Fraud-Detection-ML) — identifies fraudulent transactions in financial data
 - ❤️ [Heart Disease Prediction](https://github.com/umaribrahimkambiya/Heart-Disease-Prediction-) — predicts heart disease risk from patient health indicators
