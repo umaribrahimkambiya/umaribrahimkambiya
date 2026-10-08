@@ -21,6 +21,8 @@ I build machine learning models that solve real-world problems from detecting mi
 - ❤️ [Heart Disease Prediction](https://github.com/umaribrahimkambiya/Heart-Disease-Prediction-) — predicts heart disease risk from patient health indicators
 - 🩺 [Healthcare AI Assistant](https://github.com/umaribrahimkambiya/Healthcare-AI-Assistant-for-Early-Disease-Screening-main) — AI-assisted early disease screening tool
 - 📈 [SME Demand Forecasting](https://github.com/umaribrahimkambiya/SME-Demand-Forecasting) — end-to-end ML system for 30-day product demand forecasting using Random Forest, XGBoost, time-series features, and Streamlit
+- 📊 [StockSence AI](https://github.com/umaribrahimkambiya/StockSense-AI) — Interactive sales and inventory intelligence dashboard for small businesses, featuring sales KPIs, product performance analysis, inventory insights, and downloadable PDF reports and charts
+  
 
 ### 📜 Certifications
 - 🎓 NASA Open Science 101 (NASA) — Certificate of Achievement in open science and research transparency..
